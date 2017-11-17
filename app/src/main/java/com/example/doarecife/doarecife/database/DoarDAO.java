@@ -10,9 +10,6 @@ import com.example.doarecife.doarecife.model.ItemDoacao;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by jose mario on 16/11/2017.
- */
 
 public class DoarDAO {
 
