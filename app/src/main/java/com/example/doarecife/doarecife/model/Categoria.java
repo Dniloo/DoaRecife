@@ -2,9 +2,6 @@ package com.example.doarecife.doarecife.model;
 
 import java.util.List;
 
-/**
- * Created by jose mario on 13/11/2017.
- */
 
 public class Categoria {
 

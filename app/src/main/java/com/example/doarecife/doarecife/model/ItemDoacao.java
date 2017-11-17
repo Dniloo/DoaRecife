@@ -1,8 +1,5 @@
 package com.example.doarecife.doarecife.model;
 
-/**
- * Created by jose mario on 13/11/2017.
- */
 
 public class ItemDoacao {
 
